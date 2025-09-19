@@ -44,10 +44,18 @@ Start Apache and MySQL
 Open in browser
 http://localhost/sunny-tourist-excursion/
 
+**Home Page**
+
 <img width="605" height="439" alt="image" src="https://github.com/user-attachments/assets/685e2eaa-9696-42c0-ab0d-f666b4a0e45b" />
 
 
-(Add screenshots of homepage, booking page, and admin panel here.)
+**All Excursion**
+
+<img width="460" height="437" alt="image" src="https://github.com/user-attachments/assets/67dba848-eab5-44ad-88c5-490637a9cce5" />
+
+**Login**
+
+<img width="523" height="418" alt="image" src="https://github.com/user-attachments/assets/51ca2bd5-7df5-4b6f-8168-f87464c3a3bf" />
 
 ✨ Future Improvements
 
